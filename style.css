@@ -1,0 +1,137 @@
+body{
+background-color: aqua;
+
+/* font-family: 'Press Start 2P', cursive */
+
+}
+
+.flex-container {
+	display: flex;
+}
+
+/* .flex-column{
+	flex-direction: column;
+} */
+
+.board-container {
+	height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+	width: 250px;
+	height: 250px;
+	border: 3px solid black;
+}
+
+
+
+.board {
+	width: 600px;
+	
+}
+
+
+/* button{
+    justify-content: center;
+    align-items: center;
+} */
+.nes-container{
+    background-color: rgb(235, 217, 217);
+    display: flex;
+    
+    align-self: center;
+    width: 70vw;
+    height: 70vw;
+    
+
+}
+
+/* .box3{
+height: 200px;
+width: 200px;
+border: 1px;
+border-color: black
+
+
+} */
+
+.box3{
+    height: 200px;
+    width: 200px;
+    border: 1px;
+    border-color: black
+    
+    
+    }
+
+    .box1{
+        height: 200px;
+        width: 200px;
+        border: 1px;
+        border-color: black
+        
+        }.box2{
+            height: 200px;
+            width: 200px;
+            border: 1px;
+            border-color: black
+            
+            }.box3{
+                height: 200px;
+                width: 200px;
+                border: 1px;
+                border-color: black
+                
+                }.box4{
+                    height: 200px;
+                    width: 200px;
+                    border: 1px;
+                    border-color: black
+                    
+                    }.box5{
+                        height: 200px;
+                        width: 200px;
+                        border: 1px;
+                        border-color: black
+                        
+                        }.box6{
+                            height: 200px;
+                            width: 200px;
+                            border: 1px;
+                            border-color: black
+                            
+                            }.box6{
+                                height: 200px;
+                                width: 200px;
+                                border: 1px;
+                                border-color: black
+                                
+                                }
+                                .box7{
+                                    height: 200px;
+                                    width: 200px;
+                                    border: 1px;
+                                    border-color: black
+                                    
+                                    }.box8{
+                                        height: 200px;
+                                        width: 200px;
+                                        border: 1px;
+                                        border-color: black
+                                        
+                                        }.box9{
+                                            height: 200px;
+                                            width: 200px;
+                                            border: 1px;
+                                            border-color: black
+                                            
+                                            }
+/* .nes-container.box3{
+
+height: 200px;
+width: 200px;
+border: 1px;
+} */
